@@ -1,3 +1,8 @@
+# Hazırlayan: 
+  Emir Yücedağ
+  221101077
+
+
 # Basit Hesap Makinesi (Lex & Yacc ile)
 
 Bu proje, Lex ve Yacc kullanarak temel dört işlem (toplama, çıkarma, çarpma, bölme) ve üstel alma işlemini yapan basit bir hesap makinesi uygulamasıdır. Parantezli ifadeleri ve ondalıklı (float) sayıları da destekler.
